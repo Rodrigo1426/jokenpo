@@ -1,2 +1,2 @@
 # jokenpo
-Jogo JokenPo em JS.
+Jogo JokenPo em Java.
